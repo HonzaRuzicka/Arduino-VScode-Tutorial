@@ -3,5 +3,4 @@
 
  # 1. Příprava Visual Studio Code
  Instalace Arduino Extension - CTRL+SHIFT+x spustí seznam rozšíření kde je nutné nají ARDUINO
- ![Photo](./media/pic.png)
- 
+ ![Photo](./media/pic1.png)
