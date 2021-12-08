@@ -13,7 +13,7 @@
  bla bla bla bla
 
  # Založnení nového projeku Arduino
- Do nového projeku zkopírovat z tohoto projeku soubory arduino.json a c_cpp_properties.json
+ Do nového projeku zkopírovat z tohoto projeku soubory arduino.json a c_cpp_properties.json z adresáře .vscode
  Vlevo dole pak zkontrolovat COM port a jazyk kde by mělo být Arduino.
 
   ![Photo](./media/pic2.png)
